@@ -1,6 +1,9 @@
 {
-    "name": "@fluffy-spoon/substitute",
-    "version": "1.0.0",
+    "name": "@mdm/substitute",
+    "publishConfig": {
+        "registry": "http://10.132.25.51:6081/repository/nexus.npm/"
+    },
+    "version": "1.88.0",
     "description": "",
     "main": "dist/src/index.js",
     "typings": "./dist/src/index.d.ts",
